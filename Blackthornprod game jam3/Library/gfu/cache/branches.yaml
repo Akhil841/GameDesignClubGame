@@ -13,15 +13,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-01-26T14:34:54.047-08:00
+  lastUpdatedAtString: 2021-01-26T14:38:17.133-08:00
   initializedAtString: 2021-01-26T14:30:13.301-08:00
   localBranches:
   - name: master
-    tracking: 
-  remoteBranches: []
+    tracking: origin/master
+  remoteBranches:
+  - name: origin/master
+    tracking: '[None]'
   remotes:
   - name: origin
-    url: blackthornprod-jam3
+    url: https://github.com/WesleyVong/blackthornprod-jam3.git
     login: 
     user: 
     host: 
@@ -33,16 +35,25 @@ MonoBehaviour:
     values:
     - name: master
       remote:
-        name: 
-        url: 
-      trackingBranch: 
+        name: origin
+        url: https://github.com/WesleyVong/blackthornprod-jam3.git
+      trackingBranch: master
   remoteConfigBranches:
-    keys: []
-    subKeys: []
-    subKeyValues: []
+    keys:
+    - origin
+    subKeys:
+    - Values:
+      - master
+    subKeyValues:
+    - Values:
+      - name: master
+        remote:
+          name: origin
+          url: https://github.com/WesleyVong/blackthornprod-jam3.git
+        trackingBranch: 
   configRemotes:
     keys:
     - origin
     values:
     - name: origin
-      url: blackthornprod-jam3
+      url: https://github.com/WesleyVong/blackthornprod-jam3.git
