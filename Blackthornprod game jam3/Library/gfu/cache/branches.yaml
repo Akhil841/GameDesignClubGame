@@ -13,21 +13,29 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-01-26T14:33:29.120-08:00
+  lastUpdatedAtString: 2021-01-26T14:34:54.047-08:00
   initializedAtString: 2021-01-26T14:30:13.301-08:00
-  localBranches: []
+  localBranches:
+  - name: master
+    tracking: 
   remoteBranches: []
   remotes:
   - name: origin
-    url: blackthorprod-jam3
+    url: blackthornprod-jam3
     login: 
     user: 
     host: 
     function: 0
     token: 
   localConfigBranches:
-    keys: []
-    values: []
+    keys:
+    - master
+    values:
+    - name: master
+      remote:
+        name: 
+        url: 
+      trackingBranch: 
   remoteConfigBranches:
     keys: []
     subKeys: []
@@ -37,4 +45,4 @@ MonoBehaviour:
     - origin
     values:
     - name: origin
-      url: blackthorprod-jam3
+      url: blackthornprod-jam3
