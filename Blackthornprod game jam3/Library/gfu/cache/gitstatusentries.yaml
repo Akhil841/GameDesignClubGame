@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-01-26T14:40:40.774-08:00
+  lastUpdatedAtString: 2021-01-26T14:41:06.605-08:00
   initializedAtString: 2021-01-26T14:28:43.282-08:00
   entries:
   - path: Blackthornprod game jam3/Library/gfu/cache/branches.yaml
@@ -22,39 +22,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Blackthornprod game jam3/Library/gfu/cache/gitlocks.yaml
-    fullPath: /Users/wesleyvong/Documents/Unity/Blackthornprod game jam3/Library/gfu/cache/gitlocks.yaml
-    projectPath: Library/gfu/cache/gitlocks.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Blackthornprod game jam3/Library/gfu/cache/gitlog.yaml
-    fullPath: /Users/wesleyvong/Documents/Unity/Blackthornprod game jam3/Library/gfu/cache/gitlog.yaml
-    projectPath: Library/gfu/cache/gitlog.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Blackthornprod game jam3/Library/gfu/cache/gitstatusentries.yaml
-    fullPath: /Users/wesleyvong/Documents/Unity/Blackthornprod game jam3/Library/gfu/cache/gitstatusentries.yaml
-    projectPath: Library/gfu/cache/gitstatusentries.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Blackthornprod game jam3/Library/gfu/cache/gittrackingstatus.yaml
     fullPath: /Users/wesleyvong/Documents/Unity/Blackthornprod game jam3/Library/gfu/cache/gittrackingstatus.yaml
     projectPath: Library/gfu/cache/gittrackingstatus.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Blackthornprod game jam3/Library/gfu/cache/repoinfo.yaml
-    fullPath: /Users/wesleyvong/Documents/Unity/Blackthornprod game jam3/Library/gfu/cache/repoinfo.yaml
-    projectPath: Library/gfu/cache/repoinfo.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Blackthornprod game jam3/Library/SourceAssetDB
-    fullPath: /Users/wesleyvong/Documents/Unity/Blackthornprod game jam3/Library/SourceAssetDB
-    projectPath: Library/SourceAssetDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3

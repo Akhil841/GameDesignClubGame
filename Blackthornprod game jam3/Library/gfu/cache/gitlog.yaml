@@ -13,9 +13,63 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2021-01-26T14:39:28.972-08:00
+  lastUpdatedAtString: 2021-01-26T14:41:42.027-08:00
   initializedAtString: 2021-01-26T14:29:10.806-08:00
   log:
+  - commitID: 524a482f2e5fce3cac08705bd1b67542b9a3b943
+    mergeA: 
+    mergeB: 
+    authorName: Wesley Vong
+    authorEmail: wesleyvong@MacBook-Pro.local
+    commitEmail: wesleyvong@MacBook-Pro.local
+    commitName: Wesley Vong
+    summary: Initial Commit
+    description: 
+    timeString: 2021-01-26T14:40:50.000-08:00
+    commitTimeString: 2021-01-26T14:40:50.000-08:00
+    changes:
+    - path: Blackthornprod game jam3/Library/SourceAssetDB
+      fullPath: /Users/wesleyvong/Documents/Unity/Blackthornprod game jam3/Library/SourceAssetDB
+      projectPath: Library/SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Blackthornprod game jam3/Library/gfu/cache/branches.yaml
+      fullPath: /Users/wesleyvong/Documents/Unity/Blackthornprod game jam3/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Blackthornprod game jam3/Library/gfu/cache/gitlocks.yaml
+      fullPath: /Users/wesleyvong/Documents/Unity/Blackthornprod game jam3/Library/gfu/cache/gitlocks.yaml
+      projectPath: Library/gfu/cache/gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Blackthornprod game jam3/Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/wesleyvong/Documents/Unity/Blackthornprod game jam3/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Blackthornprod game jam3/Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/wesleyvong/Documents/Unity/Blackthornprod game jam3/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Blackthornprod game jam3/Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/wesleyvong/Documents/Unity/Blackthornprod game jam3/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Blackthornprod game jam3/Library/gfu/cache/repoinfo.yaml
+      fullPath: /Users/wesleyvong/Documents/Unity/Blackthornprod game jam3/Library/gfu/cache/repoinfo.yaml
+      projectPath: Library/gfu/cache/repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: fca246aa9d68844ddb0caa6fe2a1b43c38c61dc3
     mergeA: 
     mergeB: 
