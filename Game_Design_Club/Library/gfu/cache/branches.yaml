@@ -13,14 +13,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-02-17T13:00:35.235-08:00
-  initializedAtString: 2021-02-17T12:59:01.142-08:00
+  lastUpdatedAtString: 2021-02-17T16:41:32.283-08:00
+  initializedAtString: 2021-02-17T16:41:32.251-08:00
   localBranches:
+  - name: main
+    tracking: origin/main
   - name: master
     tracking: origin/master
-  remoteBranches:
-  - name: origin/main
-    tracking: '[None]'
+  remoteBranches: []
   remotes:
   - name: origin
     url: https://github.com/WesleyVong/GameDesignClubGame.git
@@ -31,8 +31,14 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
+    - main
     - master
     values:
+    - name: main
+      remote:
+        name: origin
+        url: https://github.com/WesleyVong/GameDesignClubGame.git
+      trackingBranch: main
     - name: master
       remote:
         name: origin
@@ -42,15 +48,9 @@ MonoBehaviour:
     keys:
     - origin
     subKeys:
-    - Values:
-      - main
+    - Values: []
     subKeyValues:
-    - Values:
-      - name: main
-        remote:
-          name: origin
-          url: https://github.com/WesleyVong/GameDesignClubGame.git
-        trackingBranch: 
+    - Values: []
   configRemotes:
     keys:
     - origin
